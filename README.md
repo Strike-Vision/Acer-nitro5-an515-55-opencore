@@ -13,6 +13,7 @@ Sharing my OpenCore EFI for others to create their own hackintosh.
 - All USB Ports
 - Trackpad - I2C
 - Internal Keyboard
+- Boot Chime
 - Speakers
 - Microphone
 - iServices (You will need to follow this [guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios) to get it working)
