@@ -27,3 +27,8 @@ Sharing my OpenCore EFI for others to create their own hackintosh.
 - AirDrop
 - Headphone Jack (Untested)
 
+## Photos
+
+![Image 1](/img/1.jpeg)
+![Image 2](/img/2.jpeg)
+![Image 3](/img/3.jpeg)
