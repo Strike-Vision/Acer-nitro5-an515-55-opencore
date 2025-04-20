@@ -31,3 +31,6 @@ Only Works with Macos Sonoma 14.4-14.7.5! (Some Kexts arnt supported for older o
 - Headphone Jack
 - AirDrop
 - Bluetooth
+
+## Support
+Feel free to post issues or questions on this repository for me to fix, answer or update the files
