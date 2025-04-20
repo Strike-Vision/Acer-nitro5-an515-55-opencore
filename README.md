@@ -1,6 +1,9 @@
 ## Acer nitro 5 an515-55 core i5 10300H gtx 1650 Ti opencore EFI
 
 Sharing my OpenCore EFI for others to create their own hackintosh.
+
+
+Join my [reddit community](https://www.reddit.com/r/OpenCoreEFIs)
 ## Installation
 
 Only Works with Macos Sonoma 14.4-14.7.5! (Some Kexts arnt supported for older or newer versions of MacOS)
