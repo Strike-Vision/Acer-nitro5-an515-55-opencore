@@ -216,13 +216,13 @@
                     <key>Arch</key>
                     <string>Any</string>
                     <key>BundlePath</key>
-                    <string>itlwm.kext</string>
+                    <string>AirportItlwm.kext</string>
                     <key>Comment</key>
                     <string>V2.3.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
-                    <string>Contents/MacOS/itlwm</string>
+                    <string>Contents/MacOS/AirportItlwm</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -698,7 +698,7 @@
                 <key>PickerMode</key>
                 <string>External</string>
                 <key>PickerVariant</key>
-                <string>Acidanthera\Syrah</string>
+                <string>Acidanthera\GoldenGate</string>
                 <key>PollAppleHotKeys</key>
                 <true/>
                 <key>ShowPicker</key>
@@ -826,7 +826,7 @@
                     <key>bluetoothInternalControllerInfo</key>
                     <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
-                    <string>alcid=77 watchdog=0 igfxonln=1 agdpmod=vit9696 -vi2c-force-polling -igfxblr -igfxblt -igfxbls -noDC9 -wegnoegpu TSC_sync_margin=0</string>
+                    <string>-v alcid=77 watchdog=0 igfxonln=1 agdpmod=vit9696 -vi2c-force-polling -igfxblr -igfxblt -igfxbls -noDC9 -wegnoegpu TSC_sync_margin=0</string>
                     <key>csr-active-config</key>
                     <data>AwgAAA==</data>
                     <key>prev-lang:kbd</key>
@@ -869,7 +869,7 @@
                 <key>AdviseFeatures</key>
                 <true/>
                 <key>MLB</key>
-                <string>CHANGEME</string>
+                <string>C021245014NN9PRJC</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -883,9 +883,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro16,1</string>
                 <key>SystemSerialNumber</key>
-                <string>CHANGEME!</string>
+                <string>C02FVMYUMD6N</string>
                 <key>SystemUUID</key>
-                <string>CHANGEME</string>
+                <string>F4798F26-EAB8-4CA1-863F-D2458DF154FB</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -918,13 +918,13 @@
             <key>AppleInput</key>
             <dict>
                 <key>AppleEvent</key>
-                <string>Auto</string>
+                <string>Builtin</string>
                 <key>CustomDelays</key>
                 <false/>
                 <key>GraphicsInputMirroring</key>
                 <true/>
                 <key>KeyInitialDelay</key>
-                <integer>50</integer>
+                <integer>0</integer>
                 <key>KeySubsequentDelay</key>
                 <integer>5</integer>
                 <key>PointerDwellClickTimeout</key>
