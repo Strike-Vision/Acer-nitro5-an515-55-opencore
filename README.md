@@ -5,6 +5,10 @@ Sharing my OpenCore EFI for others to create their own hackintosh.
 
 [Follow these steps to install macos](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos) (skip setting up the EFI) Copy my EFI folder to your EFI partition and change the PlatformInfo in config.plist, Follow this [guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#platforminfo) to do so (you will need [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and [ProperTree](https://github.com/corpnewt/ProperTree) when using GenSMBIOS the mac type should be: MacBookPro16,1)
 
+## Optional (after installation)
+
+remove verbose screen output (text on boot) edit the config.plist, go to NVRAM -> Add -> 7C436110-AB2A-4BBB-A880-FE41995C9F82 and remove -v from boot-args.
+
 ## Whats Working
 
 - WiFi
@@ -19,6 +23,7 @@ Sharing my OpenCore EFI for others to create their own hackintosh.
 - iServices (You will need to follow this [guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios) to get it working)
 - Brightness Control
 - WebCam
+- Ethernet
 ## What doesnt Work
 
 - dGPU (1650 ti is unsupported in OC)
