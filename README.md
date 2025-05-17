@@ -7,7 +7,7 @@ Sharing my OpenCore EFI for others to create their own hackintosh.
 
 ## Whats Working
 
-- WiFi (Using [HeliPort](https://openintelwireless.github.io/HeliPort/))
+- WiFi
 - iGPU
 - Battery Levels
 - All USB Ports
