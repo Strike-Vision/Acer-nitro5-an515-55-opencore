@@ -36,4 +36,5 @@ remove verbose screen output (text on boot) edit the config.plist, go to NVRAM -
 
 ![Image 1](/img/1.jpeg)
 ![Image 2](/img/2.jpeg)
+
 ![Image 3](/img/3.jpeg)
